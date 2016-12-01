@@ -1,0 +1,98 @@
+html,body{
+    padding:0px;
+    margin: 0px;
+}
+
+
+
+body{
+text-align:center;
+position:relative;    
+color:#676262; 
+background:#FFBF46;
+font-family:微軟正黑體,arial
+}
+
+.hw{
+   padding:20px;
+    background:#676262
+        
+}
+
+.sentence{
+    color:white
+}
+
+.box{
+    color:black;
+    width:60px;
+    height: 60px   
+}
+.inner{
+    margin: auto;
+    width:20%
+}
+
+.bg1{
+    background:red;
+    border-radius: 100%
+}
+.bg2{
+    background:#8ACB88;
+     border-radius: 100%
+}
+.bg3{
+    background:#92DCE5;
+     border-radius: 100%
+}
+.bg4{
+    background:#f4eb20;
+     border-radius: 100%
+}
+
+
+.red{
+    color:crimson
+}
+.circle{
+text-align:center;
+line-height: 70px;
+display:inline-block;
+background-color: #FFBF46;
+color:#676262;
+border-radius: 50%;
+width:70px;
+height:70px;
+font-size:20px
+}
+.circlered{
+text-align:center;
+line-height: 70px;
+display:inline-block;
+background-color: crimson;
+color:white;
+border-radius: 50%;
+width:70px;
+height:70px;
+font-size:20px
+    
+}
+
+.poem{
+position:relative;    
+color:ghostwhite;
+background:#676262;
+padding:20px;
+line-height: 30px
+}
+
+
+.tablee{
+
+padding:30px;
+color:ghostwhite;
+background:#676262;
+font-size:12px;
+font-weight:100;
+
+}
